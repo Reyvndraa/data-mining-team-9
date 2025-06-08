@@ -5,8 +5,7 @@
 ##### - Yuda Reyvandra Herman (G1A022072)
 
 
-## Link Website
-[Streamlit](https://team9-data-mining.streamlit.app/)
+## Link Website [Streamlit](https://team9-data-mining.streamlit.app/)
 
 ## Gambaran Umum Proyek
 Proyek ini mengembangkan sistem peringatan dini untuk mendeteksi mahasiswa berisiko tinggi drop out (DO). Dengan mengenali mereka lebih awal, universitas dapat segera memberikan dukungan dan intervensi yang tepat. Tujuannya meningkatkan keberhasilan studi mahasiswa dan menekan angka DO. Sistem ini dibangun menggunakan data akademik dan non-akademik mahasiswa.
